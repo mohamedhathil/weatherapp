@@ -5,7 +5,7 @@ This simple web application fetches weather data from OpenWeatherMap API based o
 ## Features
    
 1. **OpenWeatherMap Integration:** 
-## App link: `https://mohamedhathil.github.io/weatherapp/`
+    `https://mohamedhathil.github.io/weatherapp/`
    - The code fetches weather data from OpenWeatherMap using a provided API key.
    - The `fetchWeather` function takes a city as input, sends a request, and displays the weather data on the webpage.
 
